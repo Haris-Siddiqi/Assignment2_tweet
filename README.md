@@ -1,6 +1,6 @@
 # TweetClass
 
-Implemented a tweet class in C#.
+Implemented a tweet class in C#
 
 Features include
 - getting tweets from text file
