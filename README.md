@@ -1,4 +1,4 @@
-# TweetClass
+# tweetClass
 
 Implemented a tweet class in C#.
 <br />
